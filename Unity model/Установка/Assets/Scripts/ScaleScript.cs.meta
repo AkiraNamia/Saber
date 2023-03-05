@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: faeb3d2b2910e614d93bea0f8ed596e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doska5x6: {instanceID: 0}
+  - LastLengthText1: {instanceID: 0}
+  - FirstLengthText1: {instanceID: 0}
+  - LastWidthText1: {instanceID: 0}
+  - FirstWidthText1: {instanceID: 0}
+  - ost: {fileID: 3858078121245483306, guid: e9d3428a762c88f4fb489a7bfcd38929, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
